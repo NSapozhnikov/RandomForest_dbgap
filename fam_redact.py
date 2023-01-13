@@ -23,3 +23,5 @@ pd_df.to_csv('data.clean.pruned.fam',
               sep=' ',
               header=False,
               index=False)
+              
+#kogjslgjskgd
