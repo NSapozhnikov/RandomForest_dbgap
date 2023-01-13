@@ -1,6 +1,6 @@
 source("pca_helpers.R")
 
-pref = '/mnt/wd/nsap/Classifiers/RandomForest_dbgap/data.clean.pruned' 
+pref = '/mnt/wd/nsap/Classifiers/RandomForest_dbgaps/data.clean.pruned' 
 
 data <- LoadData2(pref)
 
